@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">MyMaterialDesign</string>
+  <string name="action_town">Город</string>
+  <string name="toolbar_name">yahoo weather</string>
+  <string name="moscow">Moscow</string>
+  <string name="st_pt">Sankt-Petersburg</string>
+  <string name="action_add_town">добавить город</string>
+  <string name="town">Ведите название города</string>
+</resources>
